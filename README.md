@@ -29,7 +29,7 @@ Install latest docker and run `build-with-docker.sh`.
 $ bash build-with-docker.sh
 ```
 
-2. Install emsdk (unstable way)
+2. Install emsdk (unstable way) 
 
 Setup the emsdk from [HERE](https://emscripten.org/docs/getting_started/downloads.html) and run `build.sh`.
 
